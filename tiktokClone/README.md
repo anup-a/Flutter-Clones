@@ -1,4 +1,4 @@
-# tiktokCline
+# tiktok UI Clone
 
 A new Flutter project.
 
